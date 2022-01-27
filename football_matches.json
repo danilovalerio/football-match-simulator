@@ -8,12 +8,12 @@
     "mandante": {
       "nome": "São Paulo",
       "forca": 3,
-      "imagem": "TODO"
+      "imagem": "https://logodetimes.com/times/sao-paulo/logo-sao-paulo-256.png"
     },
     "visitante": {
       "nome": "Ponte Preta",
       "forca": 3,
-      "imagem": "TODO"
+      "imagem": "https://logodetimes.com/times/ponte-preta/logo-ponte-preta-2048.png"
     }
   }
 ]
