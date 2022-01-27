@@ -1,1 +1,19 @@
-
+[
+  {
+    "descricao": "Torneio Brasil Futebol",
+    "local": {
+      "nome": "Estadio Gauchão",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "São Paulo",
+      "forca": 3,
+      "imagem": "TODO"
+    }
+    "visitante": {
+      "nome": "Ponte Preta",
+      "forca": 3,
+      "imagem": "TODO"
+    }
+  }
+]
